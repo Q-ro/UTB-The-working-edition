@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 82cb60f4a18d0d045b00e455c6a94584
+timeCreated: 1494640736
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: From the Woods
+  fontNames:
+  - From the Woods
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

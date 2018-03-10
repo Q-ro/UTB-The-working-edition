@@ -1,0 +1,268 @@
+﻿<guideText>
+	<room_5>
+		<dialog_1>
+			<string>Half a pill for now, I'm feeling a bit better.</string>
+			<string>I should take it slow, maybe lay down for a bit.</string>
+		</dialog_1>
+		<dialog_2>
+			<string>I just need to... lay here for a while...</string>
+			<string>Oh boy</string>
+			<string>Just let it happen... let it all happen...</string>
+			<string>A bit better... </string>
+			<string>Now I just need to breath, come on, remember the exercises?</string>
+			<string>Gotta find my phone, I have the app there.</string>
+		</dialog_2>
+		<dialog_3>
+			<string>I think I'm calming down</string>
+			<string>Did I have something to do today? lemme check the calendar.</string>
+		</dialog_3>
+	</room_5>
+	<room_4>
+		<dialog_1>
+			<string>Oh yeah, Maria wanted to go out to party</string>
+			<string>Maybe I should call her.</string>
+		</dialog_1>
+		<dialog_2>
+			<string>Me: Hello, Maria?</string>
+			<string>Maria: Yes?, Who is this?</string>
+			<string>Me: It's me; you know, we were going out tonight?</string>
+			<string>Maria: Oh yeah yeah, so who are you doing ? </string>
+			<string>Me: Oh, I'm good, just... just wanted to tell you I can't make it... I'm sorry</string>
+			<string>Maria: What?, Why?</string>
+			<string>Me: I just don't feel liek it, I'm sorry</string>
+			<string>Maria: Oh, it's ok, some other time then?</string>
+			<string>Me: Sure thing, sorry again</string>
+			<string>Maria: Don't worry, if you need anything let me know, OK ?, take care, bye</string>
+			<string>Me: Bye.</string>
+			<string>Man I think I should try to take my head off of this</string>
+			<string>Watching something funny may help.</string>
+		</dialog_2>
+		<dialog_3>
+			<string>I'm feeling much better, this all seems like a past memory, like something I've lived already.</string>
+		</dialog_3>
+	</room_4>
+	<room_3>
+		<dialog_1>
+			<string>This diary, it reminds me of my struggle</string>
+			<string>Yes, I've been dealing with this for a long time, and I'm still here</string>
+			<string>It's a heavy burden, but not life threatening</string>
+			<string>...</string>
+			<string>I'm feeling much better now</string>
+			<string>I think i just need a breather.</string>
+		</dialog_1>
+		<dialog_2>
+			<string>A breath of fresh air, so nice</string>
+			<string>Oh, look at the time, I need to take my medication</string>
+			<string>Where is that other half ?</string>
+		</dialog_2>
+		<dialog_3>
+			<string>Yup, I've taken my dose for the day.</string>
+			<string>Things feel so much better now, so cozy</string>
+			<string>It's almost like being with my family and friends, like a memory worth pinning.</string>
+		</dialog_3>
+	</room_3>
+	<room_2>
+		<dialog_1>
+			<string>The cork board, so many people that have share moments with me...</string>
+			<string>Some are still in my life, some aren't, maybe because of desagrements, maybe because uncompatibility</string>
+			<string>And that's alright, I can't be loved or admired by everyone I know.</string>
+			<string>...</string>
+			<string>I feel like clearing up my head a bit</string>
+			<string>Maybe i can distract myself with a good story.</string>
+		</dialog_1>
+		<dialog_2>
+			<string>"It was I ! ..."</string>
+			<string>Such a good story.</string>
+			<string>Man, I feel a lot more confident, I feel ready to open up about my problem</string>
+			<string>Maybe I can find something online?.</string>
+		</dialog_2>
+		<dialog_3>
+			<string>Me: Hello, I've been having some issues, I'm feeling better now, but I think it's time for me to get some professional help</string>
+			<string>Doc: Hey, it's really good that you took the first step</string>
+			<string>DOC: How have you been? tell me all about it</string>
+			<string>...</string>
+			<string>Doc: Those are great news! Tell me about your week!</string>
+			<string>Me: Well, I tried to be more calm and do the exercises but I wasn't able to go out with a friend...</string>
+			<string>...</string>
+			<string>Doc: This is great, i think we are making good progress, how do you feel ?</string>
+			<string>Me: I feeling really good</string>
+			<string>Doc: Awesome, how about you come by my office later today to chat a bit more, would that be ok ?</string>
+			<string>Me: Sure, I'll meet you there</string>
+			<string>*Breaths*...</string>
+			<string>I feel ready, I'm ready</string>
+			<string>I need to go out.</string>
+			<string>I realize now that I'm flawed, but that doesn't mean I'm not worthy</string>
+			<string>The help I need is out there, is up to me to take it</string>
+		</dialog_3>
+	</room_2>
+	<room_1>
+		<dialog_1>
+			<string>*Breaths*...</string>
+			<string>I feel ready, I'm ready</string>
+			<string>I need to go out.</string>
+		</dialog_1>
+		<dialog_2>
+			<string>I realize now that I'm flawed, but that doesn't mean I'm not worthy</string>
+			<string>The help I need is out there, is up to me to take it</string>
+		</dialog_2>
+	</room_1>
+	<GoBack>
+		<dialog_5>
+			<string>Has it been...</string>
+			<string>Has it been a day already?</string>
+		</dialog_5>
+		<dialog_4>
+			<string>Oh god, did i zone out?...</string>
+			<string>...</string>
+		</dialog_4>
+		<dialog_3>
+			<string>Memories, was that all a memory?...</string>
+			<string>...</string>
+		</dialog_3>
+		<dialog_2>
+			<string>Oh god, did i zone out?...</string>
+			<string>...</string>
+		</dialog_2>
+		<dialog_1>
+			<string>Memories, was that all a memory?...</string>
+			<string>...</string>
+		</dialog_1>
+	</GoBack>
+	<Spamming>
+		<dialog_1>
+			<string>......</string>
+		</dialog_1>
+		<dialog_2>
+			<string>...</string>
+			<string>(uninteligeble)</string>
+		</dialog_2>
+		<dialog_3>
+			<string>1 ... 2 ... I'm not trying...</string>
+			<string>I ... (Zones out)</string>
+		</dialog_3>
+		<dialog_4>
+			<string>I know it's here</string>
+			<string>What was here?</string>
+			<string>What was it ...</string>
+		</dialog_4>
+	</Spamming>
+	<Book>
+		<dialog_1>
+			<string>Can't waste time now</string>
+		</dialog_1>
+		<dialog_2>
+			<string>Why am i trying to scape into a world of fantasy?</string>
+		</dialog_2>
+		<dialog_3>
+			<string>This is why i don't have that meny friends</string>
+		</dialog_3>
+	</Book>
+	<Bed>
+		<dialog_1>
+			<string>I think there are more pressing matters</string>
+		</dialog_1>
+		<dialog_2>
+			<string>I've wasted so much time here already</string>
+		</dialog_2>
+		<dialog_3>
+			<string>Am I even awake right now ?</string>
+		</dialog_3>
+	</Bed>
+	<Pills>
+		<dialog_1>
+			<string>I don't know if this is a good idea ...</string>
+			<string>This doesn't bode well</string>
+		</dialog_1>
+		<dialog_2>
+			<string>What am I even doing? this is so wrong, I fell terrible</string>
+		</dialog_2>
+		<dialog_3>
+			<string>I ...</string>
+			<string>...</string>
+			<string>... Ca...</string>
+			<string>...</string>
+		</dialog_3>
+	</Pills>
+	<PhoneCall>
+		<dialog_1>
+			<string>There doesn't seem to be anybody home, of course</string>
+		</dialog_1>
+		<dialog_2>
+			<string>Are they just avoiding me!?</string>
+		</dialog_2>
+		<dialog_2>
+			<string>Are they angry at me?</string>
+			<string>Did i do something?</string>
+			<string>Is there anything wrong with me!?</string>
+		</dialog_2>
+	</PhoneCall>
+	<Breathing>
+		<dialog_1>
+			<string>I don't know if this is working</string>
+		</dialog_1>
+		<dialog_2>
+			<string>I'm hyperventilating</string>
+		</dialog_2>
+		<dialog_2>
+			<string>I don't feel so good</string>
+			<string>I think i'm passing out.</string>
+		</dialog_2>
+	</Breathing>
+	<Computer>
+		<dialog_1>
+			<string>I'm downloading a game, the internet is really slow right now</string>
+		</dialog_1>
+		<dialog_2>
+			<string>How manye wasted hours, how many more to come</string>
+		</dialog_2>
+		<dialog_2>
+			<string>As always, everyone is only, nobody talks to me, what's the point ?</string>
+		</dialog_2>
+	</Computer>
+	<Calendar>
+		<dialog_1>
+			<string>How long has it been since last time i went out ?</string>
+		</dialog_1>
+		<dialog_2>
+			<string>The days just waste away...</string>
+		</dialog_2>
+		<dialog_2>
+			<string>...</string>
+			<string>Time waits for no one.</string>
+		</dialog_2>
+	</Calendar>
+	<Diary>
+		<dialog_1>
+			<string>Can't waste time now</string>
+		</dialog_1>
+		<dialog_2>
+			<string>Why am I trying to scape?</string>
+		</dialog_2>
+		<dialog_3>
+			<string>This is why I don't have that many friends</string>
+		</dialog_3>
+	</Diary>
+	<CorkBoard>
+		<dialog_1>
+			<string>Did I even meant anything to them?</string>
+		</dialog_1>
+		<dialog_2>
+			<string>I'm never good enough for anybody</string>
+		</dialog_2>
+		<dialog_2>
+			<string>...</string>
+			<string>I'm so worthless</string>
+		</dialog_2>
+	</CorkBoard>
+	<Intro>
+		<dialog_1>
+			<string>Oh boy, here it comes again ...</string>
+			<string>It’s getting worse...</string>
+			<string>I’m losing... control..</string>
+			<string>I... I’m fainting...</string>
+			<string>I’M GONNA DIE...</string>
+			<string>Oh god, I... I need my pills...</string>
+			<string>Where did I put them !?.</string>
+		</dialog_1>
+	</Intro>
+</guideText>
