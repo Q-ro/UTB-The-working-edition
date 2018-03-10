@@ -8,8 +8,8 @@
 			<string>I just need to... lay here for a while...</string>
 			<string>Oh boy</string>
 			<string>Just let it happen... let it all happen...</string>
-			<string>A bit better... </string>
-			<string>Now I just need to breath, come on, remember the exercises?</string>
+			<string>Feeling a bit better... </string>
+			<string>Now I just need to do some brething exercises, come on, remember the exercises?</string>
 			<string>Gotta find my phone, I have the app there.</string>
 		</dialog_2>
 		<dialog_3>
@@ -26,10 +26,10 @@
 			<string>Me: Hello, Maria?</string>
 			<string>Maria: Yes?, Who is this?</string>
 			<string>Me: It's me; you know, we were going out tonight?</string>
-			<string>Maria: Oh yeah yeah, so who are you doing ? </string>
+			<string>Maria: Oh yeah yeah, so how are you doing ? </string>
 			<string>Me: Oh, I'm good, just... just wanted to tell you I can't make it... I'm sorry</string>
 			<string>Maria: What?, Why?</string>
-			<string>Me: I just don't feel liek it, I'm sorry</string>
+			<string>Me: I just don't feel like it, I'm sorry</string>
 			<string>Maria: Oh, it's ok, some other time then?</string>
 			<string>Me: Sure thing, sorry again</string>
 			<string>Maria: Don't worry, if you need anything let me know, OK ?, take care, bye</string>
@@ -64,14 +64,14 @@
 	<room_2>
 		<dialog_1>
 			<string>The cork board, so many people that have share moments with me...</string>
-			<string>Some are still in my life, some aren't, maybe because of desagrements, maybe because uncompatibility</string>
+			<string>Some are still in my life, some aren't, maybe because of disagreements, maybe because uncompatibility</string>
 			<string>And that's alright, I can't be loved or admired by everyone I know.</string>
 			<string>...</string>
 			<string>I feel like clearing up my head a bit</string>
 			<string>Maybe i can distract myself with a good story.</string>
 		</dialog_1>
 		<dialog_2>
-			<string>"It was I ! ..."</string>
+			<string>"You expected a good story was me ! ..."</string>
 			<string>Such a good story.</string>
 			<string>Man, I feel a lot more confident, I feel ready to open up about my problem</string>
 			<string>Maybe I can find something online?.</string>
@@ -84,10 +84,12 @@
 			<string>Doc: Those are great news! Tell me about your week!</string>
 			<string>Me: Well, I tried to be more calm and do the exercises but I wasn't able to go out with a friend...</string>
 			<string>...</string>
-			<string>Doc: This is great, i think we are making good progress, how do you feel ?</string>
+			<string>Doc: This is great, I think we are making good progress, how do you feel ?</string>
 			<string>Me: I feeling really good</string>
 			<string>Doc: Awesome, how about you come by my office later today to chat a bit more, would that be ok ?</string>
 			<string>Me: Sure, I'll meet you there</string>
+			<string>Doc: Good, See you then.</string>
+			<string>Me: See ya.</string>
 			<string>*Breaths*...</string>
 			<string>I feel ready, I'm ready</string>
 			<string>I need to go out.</string>
@@ -154,7 +156,7 @@
 			<string>Why am i trying to scape into a world of fantasy?</string>
 		</dialog_2>
 		<dialog_3>
-			<string>This is why i don't have that meny friends</string>
+			<string>This is why i don't have that many friends</string>
 		</dialog_3>
 	</Book>
 	<Bed>
@@ -213,10 +215,10 @@
 			<string>I'm downloading a game, the internet is really slow right now</string>
 		</dialog_1>
 		<dialog_2>
-			<string>How manye wasted hours, how many more to come</string>
+			<string>How many wasted hours, how many more to come</string>
 		</dialog_2>
 		<dialog_2>
-			<string>As always, everyone is only, nobody talks to me, what's the point ?</string>
+			<string>As always, everyone is online yet nobody talks to me, what's the point ?</string>
 		</dialog_2>
 	</Computer>
 	<Calendar>
@@ -263,6 +265,7 @@
 			<string>I’M GONNA DIE...</string>
 			<string>Oh god, I... I need my pills...</string>
 			<string>Where did I put them !?.</string>
+			<string>Right the pants from yesterday next to the wardrobe.</string>
 		</dialog_1>
 	</Intro>
 </guideText>
